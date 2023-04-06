@@ -18,7 +18,11 @@
   
 - ✉️ Contact for work: **hieu.npt1710@gmail.com**  
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owofuyuki&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owofuyuki&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!---
+[![Visit Count](https://visitcount.itsvg.in/api?id=owofuyuki&icon=0&color=12)](https://visitcount.itsvg.in)
+--->
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fuyu.uwu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/fuyu-hieunpt)
