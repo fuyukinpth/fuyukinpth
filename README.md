@@ -9,9 +9,9 @@
 
 - 🏫 Student at **Hanoi University of Science and Technology**
   
-- 🌱 Currently learning about **Computer Network engineering and Machine Learning**  
+- 📝 **Academic Year 2020-2024 | School of Electronics and Telecommunications**  
   
-- 📝 **Academic Year 2020-2024 | School of Electronics and Telecommunications**
+- 🌱 Currently learning about **Computer Network engineering and Machine Learning** 
   
 - ✉️ Contact for work: **hieu.npt1710@gmail.com**  
 
