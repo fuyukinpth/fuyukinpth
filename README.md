@@ -2,8 +2,8 @@
 <img src="/helloworld.gif" align="center" style="width: 100%" />
 </div>   
 
-### 👋 Hi there, I’m [@owofuyuki](https://github.com/owofuyuki)
-## **Just a full-time student 🧑‍🎓 and research assistant 🧑‍💻, as well as...**  
+## 👋 Hi there, I’m [@owofuyuki](https://github.com/owofuyuki)
+### **Just a full-time student 🧑‍🎓 and research assistant 🧑‍💻, as well as...**  
 
 <img align="right" width="auto" height="160" src="/hieunpt.png">
 
