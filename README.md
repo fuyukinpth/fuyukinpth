@@ -3,14 +3,17 @@
 </div>   
 
 ## 👋 Hi there, I’m [@owofuyuki](https://github.com/owofuyuki)
-### **Just a full-time student 🧑‍🎓 and research assistant 🧑‍💻, as well as...**  
 
 <img align="right" width="auto" height="160" src="/hieunpt.png">
 
+### **Just a full-time student 🧑‍🎓 and research assistant 🧑‍💻, as well as...**  
+
 - 🏫 Student at **Hanoi University of Science and Technology**
-  
+
+<!---
 - 📝 **Academic Year 2020-2024 | School of Electronics and Telecommunications**  
-  
+--->
+
 - 🌱 Currently learning about **Computer Network engineering and Machine Learning** 
   
 - ✉️ Contact for work: **hieu.npt1710@gmail.com**  
