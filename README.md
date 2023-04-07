@@ -14,7 +14,7 @@
 
 - 🌱 Currently learning about **Computer Network engineering and Machine Learning** 
 
-- 🪴 Have a little experience in **UI/UX design and Full-stack Web/App programming**
+- 🪴 Have a little experience in **UI/UX Design and Full-stack Web/App programming**
   
 - ✉️ Contact for work: **hieu.npt1710@gmail.com**
 
