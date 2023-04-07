@@ -4,9 +4,9 @@
 
 ## 👋 Hi there, I’m [@owofuyuki](https://github.com/owofuyuki)
 
-<img align="right" width="auto" height="160" src="/hieunpt.png">
+### **Just a full-time student 🧑‍🎓 and research assistant 🧑‍💻, as well as...**
 
-### **Just a full-time student 🧑‍🎓 and research assistant 🧑‍💻, as well as...**  
+<img align="right" width="auto" height="160" src="/hieunpt.png">
 
 - 🏫 Student at **Hanoi University of Science and Technology**
 
