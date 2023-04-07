@@ -14,7 +14,9 @@
 
 - 🌱 Currently learning about **Computer Network engineering and Machine Learning** 
   
-- ✉️ Contact for work: **hieu.npt1710@gmail.com**  
+- ✉️ Contact for work: **hieu.npt1710@gmail.com**
+
+- 🇻🇳 Ha Noi, Viet Nam
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owofuyuki&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
