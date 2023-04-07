@@ -10,9 +10,7 @@
 
 - 🏫 Student at **Hanoi University of Science and Technology**
 
-<!---
 - 📝 **Academic Year 2020-2024 | School of Electronics and Telecommunications**  
---->
 
 - 🌱 Currently learning about **Computer Network engineering and Machine Learning** 
   
