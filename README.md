@@ -13,17 +13,15 @@
 - 📝 **Academic Year 2020-2024 | School of Electronics and Telecommunications**  
 
 - 🌱 Currently learning about **Computer Network engineering and Machine Learning** 
+
+- 🪴 Have a little experience in **UI/UX design and Full-stack Web/App programming**
   
 - ✉️ Contact for work: **hieu.npt1710@gmail.com**
 
-- 📌 Address: **Ha Noi, Viet Nam**
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owofuyuki&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <!---
 [![Visit Count](https://visitcount.itsvg.in/api?id=owofuyuki&icon=0&color=12)](https://visitcount.itsvg.in)
 --->
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fuyu.uwu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/fuyu-hieunpt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/duavacam_/) 
