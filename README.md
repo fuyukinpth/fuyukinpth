@@ -2,7 +2,7 @@
 <img src="/helloworld.gif" align="center" style="width: 100%" />
 </div>   
 
-## 👋 Hi there, I’m [@owofuyuki](https://github.com/owofuyuki)
+## 👋 Hi there, I’m [Nguyen Pham Trung Hieu @fuyukinpth](https://github.com/fuyukinpth)
 
 ### **Just a full-time student 🧑‍🎓 and research assistant 🧑‍💻, as well as...**
 
