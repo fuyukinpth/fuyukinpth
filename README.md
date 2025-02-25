@@ -18,7 +18,7 @@
   
 - ✉️ Contact for work: **hieu.npt1710@gmail.com**
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owofuyuki&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyukinpth&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <!---
 [![Visit Count](https://visitcount.itsvg.in/api?id=owofuyuki&icon=0&color=12)](https://visitcount.itsvg.in)
 --->
